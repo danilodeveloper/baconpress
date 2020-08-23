@@ -39,7 +39,7 @@
     "express-session": "~1.6.5", /* express-session */
     "helmet": "~0.4.0", /* help secure Express/Connect apps with various HTTP header  */
     "lodash": "~3.5.0", /*lodash module bundles for Node.js/io.js */
-    "method-override": "~2.1.0", /* Override HTTP verbs. */
+    "method-override": "~3.0.0", /* Override HTTP verbs. */
     "mongoose": "~4.0.5", /* elegant mongodb object modeling for node.js */
     "morgan": "~1.1.1", /*HTTP request logger middleware for node.js */
     "multer": "~0.1.6", /*Node.js middleware for handling `multipart/form-data`. */
